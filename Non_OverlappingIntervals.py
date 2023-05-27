@@ -5,5 +5,5 @@ class Solution(object):
         if inicio >= fim: 
             fim = fimIntervalo
         else: 
-            cont += 1
+            cont = cont + 1
     return cont
