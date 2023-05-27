@@ -1,45 +1,50 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed_Exercicios_Dupla39
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Greed <br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0154319  |  Philipe de Sousa Barros |
+| 20/0042416  |  Pablo Christianno Silva Guedes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este trabalho envolve a resolução de exercícios que abordam o conteúdo do módulo de Algoritmos ambiciosos da disciplina de Projeto de Algoritmos. O foco principal é a aplicação de algoritmos em problemas relacionados a toda a classe de problemas de algoritmos ambiciosos.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio 1 - ""
+**Nível do exercício:** Difícil
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+![329]()
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para acessar a página do exercício [clique aqui]()
+
+**Linguagem**: Python<br>
+**Framework**: <br>
+### Vídeo do Exercício 1 [clique aqui]()
+
+### Exercicio 2 - ""
+**Nível do exercício:** Médio
+
+![743]()
+
+Para acessar a página do exercício [clique aqui](/)
+
+**Linguagem**: Python<br>
+**Framework**: <br>
+### Vídeo do Exercício 3 [clique aqui]()
+
+### Exercicio 3 - ""
+**Nível do exercício:** Médio
+
+![1514]()
+
+Para acessar a página do exercício [clique aqui]()
+
+**Linguagem**: Python<br>
+**Framework**: <br>
+### Vídeo do Exercício 3 [clique aqui]()
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
