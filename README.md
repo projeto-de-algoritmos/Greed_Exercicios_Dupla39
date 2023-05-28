@@ -22,7 +22,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 1 [clique aqui]()
+### Vídeo do Exercício 1 [clique aqui](https://www.youtube.com/watch?v=MEuKhY-R7Ok)
 
 ### Exercicio 2 - "Jump Game"
 **Nível do exercício:** Médio
