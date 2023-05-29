@@ -35,16 +35,25 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 **Framework**: <br>
 ### Vídeo do Exercício 2 [clique aqui](https://www.youtube.com/watch?v=IawsRW0K7Pw)
 
-### Exercicio 3 - ""
+### Exercicio 3 - "Maximum Length of Pair Chain"
 **Nível do exercício:** Médio
 
-![1514]()
+![646](./images/pair.png)
 
-Para acessar a página do exercício [clique aqui]()
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 3 [clique aqui]()
+
+### Exercicio 4 - "Maximum Units on a Truck"
+**Nível do exercício:** Fácil
+
+![1710](./images/truck.png)
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/maximum-units-on-a-truck/description/)
+
+**Linguagem**: Python<br>
+**Framework**: <br>
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
