@@ -22,7 +22,10 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 1 [clique aqui](https://www.youtube.com/watch?v=MEuKhY-R7Ok)
+## Vídeo do Exercício 1 
+O arquivo do vídeo (.mp4) do exercício um se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla39/blob/master/videos/exercicio1_Philipe)
+
+Disponível também no Youtube [clique aqui](https://www.youtube.com/watch?v=MEuKhY-R7Ok)
 
 ### Exercicio 2 - "Jump Game"
 **Nível do exercício:** Médio
@@ -33,7 +36,11 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 2 [clique aqui](https://www.youtube.com/watch?v=IawsRW0K7Pw)
+
+## Vídeo do Exercício 2
+O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla39/blob/master/videos/exercicio2_Philipe)
+
+Disponível também no Youtube [clique aqui](https://www.youtube.com/watch?v=IawsRW0K7Pw)
 
 ### Exercicio 3 - "Maximum Length of Pair Chain"
 **Nível do exercício:** Médio
@@ -55,5 +62,26 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 **Linguagem**: Python<br>
 **Framework**: <br>
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+<br>
+
+## Instalação 
+**Linguagem**: Python<br>
+
+Caso queira testar localmente é necessário instalar python:
+
+- ### Windows
+Baixe o pacote Python do [site official](https://www.python.org/downloads/), e no momento da instação, marque a opção "Add Python to PATH".
+
+- ### Linux
+Execute no terminal do linux a atualização dos pacotes e instalação do python3
+
+```bash
+sudo apt-get update
+sudo apt-get install python3
+```
+
+
+## Uso 
+Para verificar o funcionamento basta abrir o link do exercicio e copiar o código referente a questão, e logo após realizar o envio. Caso queira verificar localmente, é necessário executar o programa, e para isto basta utilizar o comando:
+
+`python NomeDoArquivo.py`
