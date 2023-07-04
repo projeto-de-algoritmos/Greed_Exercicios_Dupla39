@@ -23,7 +23,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 **Linguagem**: Python<br>
 **Framework**: <br>
 ## Vídeo do Exercício 1 
-O arquivo do vídeo (.mp4) do exercício um se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla39/blob/master/videos/exercicio1_Philipe)
+O arquivo do vídeo (.mp4) do exercício um se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla39/blob/master/videos/exercicio1_Philipe.mp4)
 
 Disponível também no Youtube [clique aqui](https://www.youtube.com/watch?v=MEuKhY-R7Ok)
 
@@ -38,7 +38,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 **Framework**: <br>
 
 ## Vídeo do Exercício 2
-O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla39/blob/master/videos/exercicio2_Philipe)
+O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla39/blob/master/videos/exercicio2_Philipe.mp4)
 
 Disponível também no Youtube [clique aqui](https://www.youtube.com/watch?v=IawsRW0K7Pw)
 
